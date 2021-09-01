@@ -2,4 +2,3 @@ saturno
 NETUNO
 MARTE
 MERCURIO
-plutão
