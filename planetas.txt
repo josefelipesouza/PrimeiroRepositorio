@@ -3,3 +3,4 @@ NETUNO
 MARTE
 MERCURIO
 plutão
+TERRA
