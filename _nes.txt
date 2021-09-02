@@ -1,0 +1,104 @@
+[33mcommit e0625dc76db3439774e6e82c5e42d9cf6b6f8d45[m[33m ([m[1;36mHEAD[m[33m, [m[1;32mmaster[m[33m)[m
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Thu Sep 2 09:55:29 2021 -0300
+
+    mais games
+
+[33mcommit 0015f4ab33b5c08df89a163e16df36f99dee4d7a[m[33m ([m[1;31morigin/master[m[33m)[m
+Merge: 4328a47 5feaa53
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Wed Sep 1 17:29:24 2021 -0300
+
+    merge resolvida
+
+[33mcommit 4328a47f6dbfeaf6477c0995beda06eb3d71ed33[m
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Wed Sep 1 17:09:14 2021 -0300
+
+    mk
+
+[33mcommit 5feaa5332f7274e9584e1010d7ee2a3d41aff27d[m[33m ([m[1;31morigin/novabranch[m[33m, [m[1;32mnovabranch[m[33m)[m
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Wed Sep 1 16:58:41 2021 -0300
+
+    super mario
+
+[33mcommit 755262f9252bc72d66026046439be27db8b3ebb3[m
+Merge: ffa6bb9 91ff31c
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Wed Sep 1 16:02:18 2021 -0300
+
+    planetas 2
+
+[33mcommit ffa6bb9cfe44857a19a5d42bc1444c466e8958d8[m
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Wed Sep 1 15:51:28 2021 -0300
+
+    planetas putão
+
+[33mcommit 91ff31cea83a0d5ed127db7102a15b2ed43371d5[m
+Merge: b85de95 899a786
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Wed Sep 1 15:45:27 2021 -0300
+
+    Merge branch 'master' of https://github.com/josefelipesouza/PrimeiroRepositorio
+
+[33mcommit b85de952d7f04ec9df56ff2e393d992fe662fb91[m
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Wed Sep 1 15:41:51 2021 -0300
+
+    add Terra
+
+[33mcommit 899a78612464eb87e356e406d7177bd7ef3a2d24[m
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Wed Sep 1 11:52:52 2021 -0300
+
+    novo planeta
+
+[33mcommit 7368c9db3353d97cee2f004a86c73c686ee54e3f[m
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Wed Sep 1 11:28:03 2021 -0300
+
+    planetas
+
+[33mcommit 8fe0b5f0e15128ff1280a56d13a7309d2b5b94a1[m
+Author: Weslley Almeida <weslleyalmeida6@gmail.com>
+Date:   Wed Sep 1 11:00:07 2021 -0300
+
+    add mercurio
+
+[33mcommit 5fe352c23670bc9d1e0631d51022260197bc5fd4[m
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Wed Sep 1 10:50:09 2021 -0300
+
+    adiciona mais um planeta
+
+[33mcommit 4e72a1571ee0108f013a517b2d5f95ff45d54269[m
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Wed Sep 1 10:40:20 2021 -0300
+
+    adicina mais um clasico
+
+[33mcommit 6f445e1e73a9d84f1400f8e0472c71391b052b04[m
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Wed Sep 1 09:54:50 2021 -0300
+
+    clasicos da sega
+
+[33mcommit 02f795a7eb2cad15b68b0cafefb9d00ab3bf87f7[m
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Wed Sep 1 09:36:44 2021 -0300
+
+    adição de arquivos
+
+[33mcommit af865a59846fbedb5c741672667a9f0e1a404935[m
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Tue Aug 31 17:35:05 2021 -0300
+
+    sobe arquivo README.TXT
+
+[33mcommit 593884eaf7d03911bd848b385ecea2c07e4e4b10[m
+Author: josefelipesouza <37671290+josefelipesouza@users.noreply.github.com>
+Date:   Tue Aug 31 16:27:23 2021 -0300
+
+    commit de teste
